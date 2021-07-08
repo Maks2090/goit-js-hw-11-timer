@@ -1,0 +1,2 @@
+body{background-color:#5e5e5e}.timer{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);display:flex;justify-content:center}.field{display:flex;flex-direction:column;padding:10px}.value{font-size:60px;padding:20px;background-color:#100f0f;color:#f7f3f3;border-radius:10px;margin-bottom:20px;line-height:1}.label,.value{text-align:center}.label{font-size:16px;color:#e7e0e0}
+/*# sourceMappingURL=/goit-js-hw-11-timer/src.a45462f3.css.map */
